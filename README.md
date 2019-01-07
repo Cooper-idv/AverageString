@@ -1,0 +1,2 @@
+# AverageString
+AverageString
